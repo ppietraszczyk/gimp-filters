@@ -1,0 +1,4 @@
+Wystarczy uruchomić z poziomu katalogu ze zdjęciami w formacie JPG: 
+ ./przem-soft-focus-noninteractive.sh
+ 
+Skrypt automatycznie doda efekt soft-focus do zdjęć po uprzednim utworzeniu katalogu FOCUS
