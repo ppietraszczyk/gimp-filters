@@ -1,3 +1,8 @@
+; przem-lomography-x-tungsten-noninteractive-v3x.scm - Filtr symulujący Lomography X Tungsten 64 (Cross-Processed)
+; Prezmysław R. Pietraszczyk
+; 16-11-2026
+; ver. 2.261116-0
+; MIT
 
 (define (shadows val)
   (/ (* 0.96 val) 2.55))
@@ -31,7 +36,7 @@
                                  (highlights (gval c3))
                                  (highlights (bval c3)))))
 
-(define (lomography-x-tungsten-v3x ask-fileglob)
+(define (przem-lomography-x-tungsten-noninteractive-v3x ask-fileglob)
   (let* (
         (baseout (car ask-fileglob))
         (savename (cadr ask-fileglob))

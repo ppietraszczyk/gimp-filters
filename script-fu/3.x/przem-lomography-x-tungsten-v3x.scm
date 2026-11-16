@@ -1,4 +1,4 @@
-; Filtr symulujący Lomography X Tungsten 64 (Cross-Processed)
+; przem-lomography-x-tungsten-v3x - filtr symulujący Lomography X Tungsten 64 (Cross-Processed)
 ; Przemysław R. Pietraszczyk
 ; 07-11-2026
 ; ver. 2.261107-0
